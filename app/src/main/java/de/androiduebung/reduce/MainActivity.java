@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         //Setting onclick listener
         button.setOnClickListener(this);
     }
-
+    //git test
     @Override
     public void onClick(View v) {
         try{
